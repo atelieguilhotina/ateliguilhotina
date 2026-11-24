@@ -26,7 +26,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Guilherme Pedroso from Florianópolis, BR<br><br>- 🔭 I’m a freelancer Web3 Operations Manager currently looking for fixed job positions.<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I paint and take artistic photographs.</p>
+<p data-importer="text" align="left">I'm Guilherme Pedroso from Florianópolis, BR<br><br>- 🔭 I’m a Project and Delivery Manager currently looking for fixed job positions.<br>- 📚 I'm currently learning to build custom harnesses for AI Agents.<br>- ⚡ In my free time I paint and take artistic photographs.</p>
 
 ###
 
